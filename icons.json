@@ -23,6 +23,10 @@
         "normal": "./svgs/user.svg",
         "filled": "./svgs/user-filled.svg"
     },
+    "users": {
+        "normal": "./svgs/users.svg",
+        "filled": "./svgs/users-filled.svg"
+    },
     "settings": {
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
@@ -174,6 +178,10 @@
         "normal": "./svgs/circle_graph.svg",
         "filled": "./svgs/circle_graph-filled.svg"
     },
+    "moon": {
+        "normal": "./svgs/moon.svg",
+        "filled": "./svgs/moon-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
@@ -195,5 +203,6 @@
     "help": {"normal": "./svgs/help.svg"},
     "popup": {"normal": "./svgs/popup.svg"},
     "link": {"normal": "./svgs/link.svg"},
-    "hashtag": {"normal": "./svgs/hashtag.svg"}
+    "hashtag": {"normal": "./svgs/hashtag.svg"},
+    "reload": {"normal": "./svgs/reload.svg"}
 }
