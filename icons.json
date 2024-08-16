@@ -194,6 +194,10 @@
         "normal": "./svgs/test_bottle_empty.svg",
         "filled": "./svgs/test_bottle_empty-filled.svg"
     },
+    "shield": {
+        "normal": "./svgs/shield.svg",
+        "filled": "./svgs/shield-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
@@ -216,5 +220,6 @@
     "popup": {"normal": "./svgs/popup.svg"},
     "link": {"normal": "./svgs/link.svg"},
     "hashtag": {"normal": "./svgs/hashtag.svg"},
-    "reload": {"normal": "./svgs/reload.svg"}
+    "reload": {"normal": "./svgs/reload.svg"},
+    "web": {"normal": "./svgs/web.svg"}
 }
