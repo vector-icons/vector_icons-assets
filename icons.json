@@ -198,6 +198,18 @@
         "normal": "./svgs/shield.svg",
         "filled": "./svgs/shield-filled.svg"
     },
+    "sound": {
+        "normal": "./svgs/sound.svg",
+        "filled": "./svgs/sound-filled.svg"
+    },
+    "sound_low": {
+        "normal": "./svgs/sound_low.svg",
+        "filled": "./svgs/sound_low-filled.svg"
+    },
+    "sound_off": {
+        "normal": "./svgs/sound_off.svg",
+        "filled": "./svgs/sound_off-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
