@@ -182,6 +182,18 @@
         "normal": "./svgs/moon.svg",
         "filled": "./svgs/moon-filled.svg"
     },
+    "flag": {
+        "normal": "./svgs/flag.svg",
+        "filled": "./svgs/flag-filled.svg"
+    },
+    "test_bottle": {
+        "normal": "./svgs/test_bottle.svg",
+        "filled": "./svgs/test_bottle-filled.svg"
+    },
+    "test_bottle_empty": {
+        "normal": "./svgs/test_bottle_empty.svg",
+        "filled": "./svgs/test_bottle_empty-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
