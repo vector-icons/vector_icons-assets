@@ -178,6 +178,11 @@
         "normal": "./svgs/circle_graph.svg",
         "filled": "./svgs/circle_graph-filled.svg"
     },
+    "sun": {
+        "normal": "./svgs/sun.svg",
+        "filled": "./svgs/sun-filled.svg",
+        "alias": ["light"]
+    },
     "moon": {
         "normal": "./svgs/moon.svg",
         "filled": "./svgs/moon-filled.svg"
@@ -209,6 +214,14 @@
     "sound_off": {
         "normal": "./svgs/sound_off.svg",
         "filled": "./svgs/sound_off-filled.svg"
+    },
+    "headphone": {
+        "normal": "./svgs/headphone.svg",
+        "filled": "./svgs/headphone-filled.svg"
+    },
+    "light": {
+        "normal": "./svgs/light.svg",
+        "filled": "./svgs/light-filled.svg"
     },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
