@@ -178,6 +178,14 @@
         "normal": "./svgs/circle_graph.svg",
         "filled": "./svgs/circle_graph-filled.svg"
     },
+    "bar_graph": {
+        "normal": "./svgs/bar_graph.svg",
+        "filled": "./svgs/bar_graph-filled.svg"
+    },
+    "line_graph": {
+        "normal": "./svgs/line_graph.svg",
+        "filled": "./svgs/line_graph-filled.svg"
+    },
     "sun": {
         "normal": "./svgs/sun.svg",
         "filled": "./svgs/sun-filled.svg",
@@ -222,6 +230,10 @@
     "light": {
         "normal": "./svgs/light.svg",
         "filled": "./svgs/light-filled.svg"
+    },
+    "cloud": {
+        "normal": "./svgs/cloud.svg",
+        "filled": "./svgs/cloud-filled.svg"
     },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
