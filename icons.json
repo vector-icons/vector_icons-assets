@@ -27,6 +27,18 @@
         "normal": "./svgs/users.svg",
         "filled": "./svgs/users-filled.svg"
     },
+    "user_add": {
+        "normal": "./svgs/user_add.svg",
+        "filled": "./svgs/user_add-filled.svg"
+    },
+    "user_remove": {
+        "normal": "./svgs/user_remove.svg",
+        "filled": "./svgs/user_remove-filled.svg"
+    },
+    "user_delete": {
+        "normal": "./svgs/user_delete.svg",
+        "filled": "./svgs/user_delete-filled.svg"
+    },
     "settings": {
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
@@ -70,6 +82,10 @@
     "element": {
         "normal": "./svgs/element.svg",
         "filled": "./svgs/element-filled.svg"
+    },
+    "storage": {
+        "normal": "./svgs/storage.svg",
+        "filled": "./svgs/storage-filled.svg"
     },
     "bookmark": {
         "normal": "./svgs/bookmark.svg",
