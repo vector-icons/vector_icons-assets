@@ -239,9 +239,13 @@
         "normal": "./svgs/sound_off.svg",
         "filled": "./svgs/sound_off-filled.svg"
     },
-    "headphone": {
-        "normal": "./svgs/headphone.svg",
-        "filled": "./svgs/headphone-filled.svg"
+    "headset": {
+        "normal": "./svgs/headset.svg",
+        "filled": "./svgs/headset-filled.svg"
+    },
+    "headset_off": {
+        "normal": "./svgs/headset_off.svg",
+        "filled": "./svgs/headset_off-filled.svg"
     },
     "light": {
         "normal": "./svgs/light.svg",
@@ -250,6 +254,10 @@
     "cloud": {
         "normal": "./svgs/cloud.svg",
         "filled": "./svgs/cloud-filled.svg"
+    },
+    "music": {
+        "normal": "./svgs/music.svg",
+        "filled": "./svgs/music-filled.svg"
     },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
