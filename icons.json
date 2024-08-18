@@ -115,6 +115,10 @@
         "normal": "./svgs/eye_off.svg",
         "filled": "./svgs/eye_off-filled.svg"
     },
+    "list": {
+        "normal": "./svgs/list.svg",
+        "filled": "./svgs/list-filled.svg"
+    },
     "grid": {
         "normal": "./svgs/grid.svg",
         "filled": "./svgs/grid-filled.svg"
@@ -259,6 +263,10 @@
         "normal": "./svgs/light.svg",
         "filled": "./svgs/light-filled.svg"
     },
+    "lightning": {
+        "normal": "./svgs/lightning.svg",
+        "filled": "./svgs/lightning-filled.svg"
+    },
     "cloud": {
         "normal": "./svgs/cloud.svg",
         "filled": "./svgs/cloud-filled.svg"
@@ -267,7 +275,12 @@
         "normal": "./svgs/music.svg",
         "filled": "./svgs/music-filled.svg"
     },
+    "diamond": {
+        "normal": "./svgs/diamond.svg",
+        "filled": "./svgs/diamond-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
+    "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
     "arrow_right": {"normal": "./svgs/arrow_right.svg"},
