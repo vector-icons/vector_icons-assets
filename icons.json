@@ -287,6 +287,22 @@
         "normal": "./svgs/shopping_cart.svg",
         "filled": "./svgs/shopping_cart-filled.svg"
     },
+    "up": {
+        "normal": "./svgs/up.svg",
+        "filled": "./svgs/up-filled.svg"
+    },
+    "down": {
+        "normal": "./svgs/down.svg",
+        "filled": "./svgs/down-filled.svg"
+    },
+    "left": {
+        "normal": "./svgs/left.svg",
+        "filled": "./svgs/left-filled.svg"
+    },
+    "right": {
+        "normal": "./svgs/right.svg",
+        "filled": "./svgs/right-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
