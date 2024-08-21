@@ -303,6 +303,18 @@
         "normal": "./svgs/right.svg",
         "filled": "./svgs/right-filled.svg"
     },
+    "phone": {
+        "normal": "./svgs/phone.svg",
+        "filled": "./svgs/phone-filled.svg"
+    },
+    "mobile": {
+        "normal": "./svgs/mobile.svg",
+        "filled": "./svgs/mobile-filled.svg"
+    },
+    "display": {
+        "normal": "./svgs/display.svg",
+        "filled": "./svgs/display-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
