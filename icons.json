@@ -147,6 +147,10 @@
         "normal": "./svgs/remove.svg",
         "filled": "./svgs/remove-filled.svg"
     },
+    "check_box": {
+        "normal": "./svgs/check_box.svg",
+        "filled": "./svgs/check_box-filled.svg"
+    },
     "share": {
         "normal": "./svgs/share.svg",
         "filled": "./svgs/share-filled.svg"
@@ -318,6 +322,7 @@
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
+    "control": {"normal": "./svgs/control.svg"},
     "arrow_top": {"normal": "./svgs/arrow_top.svg"},
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
     "arrow_left": {"normal": "./svgs/arrow_left.svg"},
