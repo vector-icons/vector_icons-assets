@@ -319,6 +319,14 @@
         "normal": "./svgs/display.svg",
         "filled": "./svgs/display-filled.svg"
     },
+    "tag": {
+        "normal": "./svgs/tag.svg",
+        "filled": "./svgs/tag-filled.svg"
+    },
+    "pin": {
+        "normal": "./svgs/pin.svg",
+        "filled": "./svgs/pin-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
