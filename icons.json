@@ -156,6 +156,14 @@
         "normal": "./svgs/pip.svg",
         "filled": "./svgs/pip-filled.svg"
     },
+    "screen_expend": {
+        "normal": "./svgs/screen_expend.svg",
+        "filled": "./svgs/screen_expend-filled.svg"
+    },
+    "screen_shrink": {
+        "normal": "./svgs/screen_shrink.svg",
+        "filled": "./svgs/screen_shrink-filled.svg"
+    },
     "add": {
         "normal": "./svgs/add.svg",
         "filled": "./svgs/add-filled.svg"
