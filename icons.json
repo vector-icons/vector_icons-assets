@@ -352,6 +352,18 @@
         "normal": "./svgs/pin.svg",
         "filled": "./svgs/pin-filled.svg"
     },
+    "face_smile": {
+        "normal": "./svgs/face_smile.svg",
+        "filled": "./svgs/face_smile-filled.svg"
+    },
+    "face_frown": {
+        "normal": "./svgs/face_frown.svg",
+        "filled": "./svgs/face_frown-filled.svg"
+    },
+    "face_blank": {
+        "normal": "./svgs/face_blank.svg",
+        "filled": "./svgs/face_blank-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
