@@ -152,6 +152,10 @@
         "filled": "./svgs/closed_caption-filled.svg",
         "alias": ["cc"]
     },
+    "pip": {
+        "normal": "./svgs/pip.svg",
+        "filled": "./svgs/pip-filled.svg"
+    },
     "add": {
         "normal": "./svgs/add.svg",
         "filled": "./svgs/add-filled.svg"
