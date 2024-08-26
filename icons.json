@@ -364,6 +364,22 @@
         "normal": "./svgs/face_blank.svg",
         "filled": "./svgs/face_blank-filled.svg"
     },
+    "gift": {
+        "normal": "./svgs/gift.svg",
+        "filled": "./svgs/gift-filled.svg"
+    },
+    "quadrangle": {
+        "normal": "./svgs/quadrangle.svg",
+        "filled": "./svgs/quadrangle-filled.svg"
+    },
+    "circle": {
+        "normal": "./svgs/circle.svg",
+        "filled": "./svgs/circle-filled.svg"
+    },
+    "squircle": {
+        "normal": "./svgs/squircle.svg",
+        "filled": "./svgs/squircle-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
