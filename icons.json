@@ -412,5 +412,6 @@
     "repeat": {"normal": "./svgs/repeat.svg"},
     "web": {"normal": "./svgs/web.svg"},
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
-    "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"}
+    "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
+    "code": {"normal": "./svgs/code.svg"}
 }
