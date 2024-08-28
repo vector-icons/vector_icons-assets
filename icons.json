@@ -430,5 +430,6 @@
     "web": {"normal": "./svgs/web.svg"},
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
-    "code": {"normal": "./svgs/code.svg"}
+    "code": {"normal": "./svgs/code.svg"},
+    "box": {"normal": "./svgs/box.svg"}
 }
