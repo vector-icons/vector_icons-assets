@@ -409,6 +409,7 @@
     "link": {"normal": "./svgs/link.svg"},
     "hashtag": {"normal": "./svgs/hashtag.svg"},
     "reload": {"normal": "./svgs/reload.svg"},
+    "refresh": {"normal": "./svgs/refresh.svg"},
     "repeat": {"normal": "./svgs/repeat.svg"},
     "web": {"normal": "./svgs/web.svg"},
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
