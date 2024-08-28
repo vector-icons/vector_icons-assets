@@ -43,9 +43,25 @@
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
     },
-    "chat": {
-        "normal": "./svgs/chat.svg",
-        "filled": "./svgs/chat-filled.svg"
+    "chat1": {
+        "normal": "./svgs/chat1.svg",
+        "filled": "./svgs/chat1-filled.svg",
+        "alias": ["message"]
+    },
+    "chat1_dot": {
+        "normal": "./svgs/chat1_dot.svg",
+        "filled": "./svgs/chat1_dot-filled.svg",
+        "alias": ["message"]
+    },
+    "chat2": {
+        "normal": "./svgs/chat2.svg",
+        "filled": "./svgs/chat2-filled.svg",
+        "alias": ["message"]
+    },
+    "chat2_dot": {
+        "normal": "./svgs/chat2_dot.svg",
+        "filled": "./svgs/chat2_dot-filled.svg",
+        "alias": ["message"]
     },
     "community": {
         "normal": "./svgs/community.svg",
