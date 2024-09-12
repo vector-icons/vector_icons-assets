@@ -19,6 +19,18 @@
         "normal": "./svgs/navigation.svg",
         "filled": "./svgs/navigation-filled.svg"
     },
+    "add_navigation": {
+        "normal": "./svgs/add_navigation.svg",
+        "filled": "./svgs/add_navigation-filled.svg"
+    },
+    "remove_navigation": {
+        "normal": "./svgs/remove_navigation.svg",
+        "filled": "./svgs/remove_navigation-filled.svg"
+    },
+    "close_navigation": {
+        "normal": "./svgs/close_navigation.svg",
+        "filled": "./svgs/close_navigation-filled.svg"
+    },
     "user": {
         "normal": "./svgs/user.svg",
         "filled": "./svgs/user-filled.svg"
@@ -184,13 +196,33 @@
         "normal": "./svgs/screen_shrink.svg",
         "filled": "./svgs/screen_shrink-filled.svg"
     },
-    "add": {
-        "normal": "./svgs/add.svg",
-        "filled": "./svgs/add-filled.svg"
+    "add_circle": {
+        "normal": "./svgs/add_circle.svg",
+        "filled": "./svgs/add_circle-filled.svg"
     },
-    "remove": {
-        "normal": "./svgs/remove.svg",
-        "filled": "./svgs/remove-filled.svg"
+    "remove_circle": {
+        "normal": "./svgs/remove_circle.svg",
+        "filled": "./svgs/remove_circle-filled.svg"
+    },
+    "close_circle": {
+        "normal": "./svgs/close_circle.svg",
+        "filled": "./svgs/close_circle-filled.svg"
+    },
+    "check_circle": {
+        "normal": "./svgs/check_circle.svg",
+        "filled": "./svgs/check_circle-filled.svg"
+    },
+    "add_box": {
+        "normal": "./svgs/add_box.svg",
+        "filled": "./svgs/add_box-filled.svg"
+    },
+    "remove_box": {
+        "normal": "./svgs/remove_box.svg",
+        "filled": "./svgs/remove_box-filled.svg"
+    },
+    "close_box": {
+        "normal": "./svgs/close_box.svg",
+        "filled": "./svgs/close_box-filled.svg"
     },
     "check_box": {
         "normal": "./svgs/check_box.svg",
