@@ -107,6 +107,10 @@
         "normal": "./svgs/bookmark.svg",
         "filled": "./svgs/bookmark-filled.svg"
     },
+    "book": {
+        "normal": "./svgs/book.svg",
+        "filled": "./svgs/book-filled.svg"
+    },
     "notification": {
         "normal": "./svgs/notification.svg",
         "filled": "./svgs/notification-filled.svg"
