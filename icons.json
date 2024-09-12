@@ -432,6 +432,10 @@
         "normal": "./svgs/squircle.svg",
         "filled": "./svgs/squircle-filled.svg"
     },
+    "card": {
+        "normal": "./svgs/card.svg",
+        "filled": "./svgs/card-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
