@@ -436,6 +436,14 @@
         "normal": "./svgs/card.svg",
         "filled": "./svgs/card-filled.svg"
     },
+    "photo": {
+        "normal": "./svgs/photo.svg",
+        "filled": "./svgs/photo-filled.svg"
+    },
+    "tool": {
+        "normal": "./svgs/tool.svg",
+        "filled": "./svgs/tool-filled.svg"
+    },
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
