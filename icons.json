@@ -250,6 +250,10 @@
         "filled": "./svgs/document-filled.svg",
         "alias": ["doc", "docs", "text"]
     },
+    "check_list": {
+        "normal": "./svgs/check_list.svg",
+        "filled": "./svgs/check_list-filled.svg"
+    },
     "folder": {
         "normal": "./svgs/folder.svg",
         "filled": "./svgs/folder-filled.svg"
@@ -451,6 +455,10 @@
     "sword": {
         "normal": "./svgs/sword.svg",
         "filled": "./svgs/sword-filled.svg"
+    },
+    "education": {
+        "normal": "./svgs/education.svg",
+        "filled": "./svgs/education-filled.svg"
     },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
