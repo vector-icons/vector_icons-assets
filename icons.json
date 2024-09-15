@@ -279,13 +279,13 @@
         "normal": "./svgs/circle_graph.svg",
         "filled": "./svgs/circle_graph-filled.svg"
     },
-    "bar_graph": {
-        "normal": "./svgs/bar_graph.svg",
-        "filled": "./svgs/bar_graph-filled.svg"
+    "bar_graph_box": {
+        "normal": "./svgs/bar_graph_box.svg",
+        "filled": "./svgs/bar_graph_box-filled.svg"
     },
-    "line_graph": {
-        "normal": "./svgs/line_graph.svg",
-        "filled": "./svgs/line_graph-filled.svg"
+    "line_graph_box": {
+        "normal": "./svgs/line_graph_box.svg",
+        "filled": "./svgs/line_graph_box-filled.svg"
     },
     "sun": {
         "normal": "./svgs/sun.svg",
@@ -444,6 +444,13 @@
         "normal": "./svgs/tool.svg",
         "filled": "./svgs/tool-filled.svg"
     },
+    "sword": {
+        "normal": "./svgs/sword.svg",
+        "filled": "./svgs/sword-filled.svg"
+    },
+    "bar_graph": {"normal": "./svgs/bar_graph.svg"},
+    "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
+    "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
