@@ -352,6 +352,10 @@
         "normal": "./svgs/cloud.svg",
         "filled": "./svgs/cloud-filled.svg"
     },
+    "cloud_rain": {
+        "normal": "./svgs/cloud_rain.svg",
+        "filled": "./svgs/cloud_rain-filled.svg"
+    },
     "music": {
         "normal": "./svgs/music.svg",
         "filled": "./svgs/music-filled.svg"
