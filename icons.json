@@ -490,5 +490,6 @@
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
     "code": {"normal": "./svgs/code.svg"},
-    "box": {"normal": "./svgs/box.svg", "alias": "container"}
+    "box": {"normal": "./svgs/box.svg", "alias": "container"},
+    "power": {"normal": "./svgs/power.svg"}
 }
