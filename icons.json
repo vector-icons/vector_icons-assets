@@ -173,6 +173,10 @@
         "normal": "./svgs/no_image.svg",
         "filled": "./svgs/no_image-filled.svg"
     },
+    "video": {
+        "normal": "./svgs/video.svg",
+        "filled": "./svgs/video-filled.svg"
+    },
     "play": {
         "normal": "./svgs/play.svg",
         "filled": "./svgs/play-filled.svg"
@@ -237,6 +241,10 @@
     "check_box": {
         "normal": "./svgs/check_box.svg",
         "filled": "./svgs/check_box-filled.svg"
+    },
+    "warning": {
+        "normal": "./svgs/warning.svg",
+        "filled": "./svgs/warning-filled.svg"
     },
     "share": {
         "normal": "./svgs/share.svg",
