@@ -177,6 +177,10 @@
         "normal": "./svgs/video.svg",
         "filled": "./svgs/video-filled.svg"
     },
+    "video_off": {
+        "normal": "./svgs/video_off.svg",
+        "filled": "./svgs/video_off-filled.svg"
+    },
     "play": {
         "normal": "./svgs/play.svg",
         "filled": "./svgs/play-filled.svg"
@@ -487,6 +491,22 @@
         "filled": "./svgs/money-filled.svg",
         "alias": ["coin", "dollar"]
     },
+    "bug": {
+        "normal": "./svgs/bug.svg",
+        "filled": "./svgs/bug-filled.svg"
+    },
+    "information": {
+        "normal": "./svgs/information.svg",
+        "filled": "./svgs/information-filled.svg"
+    },
+    "exclamation": {
+        "normal": "./svgs/exclamation.svg",
+        "filled": "./svgs/exclamation-filled.svg"
+    },
+    "help": {
+        "normal": "./svgs/help.svg",
+        "filled": "./svgs/help-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -512,9 +532,6 @@
     "export": {"normal": "./svgs/export.svg", "alias": ["upload"]},
     "more_vertical": {"normal": "./svgs/more_vertical.svg"},
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
-    "information": {"normal": "./svgs/information.svg"},
-    "exclamation": {"normal": "./svgs/exclamation.svg"},
-    "help": {"normal": "./svgs/help.svg"},
     "popup": {"normal": "./svgs/popup.svg"},
     "link": {"normal": "./svgs/link.svg"},
     "hashtag": {"normal": "./svgs/hashtag.svg"},
