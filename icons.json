@@ -511,6 +511,10 @@
         "normal": "./svgs/store.svg",
         "filled": "./svgs/store-filled.svg"
     },
+    "application": {
+        "normal": "./svgs/application.svg",
+        "filled": "./svgs/application-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
