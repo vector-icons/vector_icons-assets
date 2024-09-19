@@ -51,6 +51,14 @@
         "normal": "./svgs/user_delete.svg",
         "filled": "./svgs/user_delete-filled.svg"
     },
+    "user_off": {
+        "normal": "./svgs/user_off.svg",
+        "filled": "./svgs/user_off-filled.svg"
+    },
+    "users_off": {
+        "normal": "./svgs/users_off.svg",
+        "filled": "./svgs/users_off-filled.svg"
+    },
     "settings": {
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
@@ -145,9 +153,13 @@
         "normal": "./svgs/star.svg",
         "filled": "./svgs/star-filled.svg"
     },
-    "write": {
-        "normal": "./svgs/write.svg",
-        "filled": "./svgs/write-filled.svg"
+    "write1": {
+        "normal": "./svgs/write1.svg",
+        "filled": "./svgs/write1-filled.svg"
+    },
+    "write2": {
+        "normal": "./svgs/write2.svg",
+        "filled": "./svgs/write2-filled.svg"
     },
     "eye": {
         "normal": "./svgs/eye.svg",
@@ -257,6 +269,14 @@
     "lock": {
         "normal": "./svgs/lock.svg",
         "filled": "./svgs/lock-filled.svg"
+    },
+    "unlock": {
+        "normal": "./svgs/unlock.svg",
+        "filled": "./svgs/unlock-filled.svg"
+    },
+    "lock_off": {
+        "normal": "./svgs/lock_off.svg",
+        "filled": "./svgs/lock_off-filled.svg"
     },
     "mail": {
         "normal": "./svgs/mail.svg",
@@ -514,6 +534,10 @@
     "application": {
         "normal": "./svgs/application.svg",
         "filled": "./svgs/application-filled.svg"
+    },
+    "adepter": {
+        "normal": "./svgs/adepter.svg",
+        "filled": "./svgs/adepter-filled.svg"
     },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
