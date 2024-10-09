@@ -543,6 +543,10 @@
         "normal": "./svgs/paper_plane.svg",
         "filled": "./svgs/paper_plane-filled.svg"
     },
+    "trophy": {
+        "normal": "./svgs/trophy.svg",
+        "filled": "./svgs/trophy-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -579,5 +583,6 @@
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
     "code": {"normal": "./svgs/code.svg"},
     "box": {"normal": "./svgs/box.svg", "alias": "container"},
-    "power": {"normal": "./svgs/power.svg"}
+    "power": {"normal": "./svgs/power.svg"},
+    "ban": {"normal": "./svgs/ban.svg"}
 }
