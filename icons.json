@@ -595,5 +595,7 @@
     "code": {"normal": "./svgs/code.svg"},
     "box": {"normal": "./svgs/box.svg", "alias": "container"},
     "power": {"normal": "./svgs/power.svg"},
-    "ban": {"normal": "./svgs/ban.svg"}
+    "ban": {"normal": "./svgs/ban.svg"},
+    "cloud_import": {"normal": "./svgs/cloud_import.svg"},
+    "cloud_export": {"normal": "./svgs/cloud_export.svg"}
 }
