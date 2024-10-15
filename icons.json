@@ -1,7 +1,12 @@
 {
-    "home": {
-        "normal": "./svgs/home.svg",
-        "filled": "./svgs/home-filled.svg",
+    "home1": {
+        "normal": "./svgs/home1.svg",
+        "filled": "./svgs/home1-filled.svg",
+        "alias": ["house"]
+    },
+    "home2": {
+        "normal": "./svgs/home2.svg",
+        "filled": "./svgs/home2-filled.svg",
         "alias": ["house"]
     },
     "compass": {
