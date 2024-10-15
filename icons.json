@@ -581,6 +581,8 @@
     "sign_out": {"normal": "./svgs/sign_out.svg"},
     "import": {"normal": "./svgs/import.svg", "alias": ["download"]},
     "export": {"normal": "./svgs/export.svg", "alias": ["upload"]},
+    "cloud_import": {"normal": "./svgs/cloud_import.svg", "alias": ["cloud_download"]},
+    "cloud_export": {"normal": "./svgs/cloud_export.svg", "alias": ["cloud_upload"]},
     "more_vertical": {"normal": "./svgs/more_vertical.svg"},
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
     "popup": {"normal": "./svgs/popup.svg"},
@@ -596,6 +598,8 @@
     "box": {"normal": "./svgs/box.svg", "alias": "container"},
     "power": {"normal": "./svgs/power.svg"},
     "ban": {"normal": "./svgs/ban.svg"},
-    "cloud_import": {"normal": "./svgs/cloud_import.svg"},
-    "cloud_export": {"normal": "./svgs/cloud_export.svg"}
+    "pull_up": {"normal": "./svgs/pull_up.svg"},
+    "pull_down": {"normal": "./svgs/pull_down.svg"},
+    "pull_left": {"normal": "./svgs/pull_left.svg"},
+    "pull_right": {"normal": "./svgs/pull_right.svg"}
 }
