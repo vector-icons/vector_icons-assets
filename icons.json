@@ -599,6 +599,10 @@
         "normal": "./svgs/announcement.svg",
         "filled": "./svgs/announcement-filled.svg"
     },
+    "painter": {
+        "normal": "./svgs/painter.svg",
+        "filled": "./svgs/painter-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
