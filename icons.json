@@ -281,6 +281,22 @@
         "normal": "./svgs/check_box.svg",
         "filled": "./svgs/check_box-filled.svg"
     },
+    "up_sign_box": {
+        "normal": "./svgs/up_sign_box.svg",
+        "filled": "./svgs/up_sign_box-filled.svg"
+    },
+    "down_sign_box": {
+        "normal": "./svgs/down_sign_box.svg",
+        "filled": "./svgs/down_sign_box-filled.svg"
+    },
+    "left_sign_box": {
+        "normal": "./svgs/left_sign_box.svg",
+        "filled": "./svgs/left_sign_box-filled.svg"
+    },
+    "right_sign_box": {
+        "normal": "./svgs/right_sign_box.svg",
+        "filled": "./svgs/right_sign_box-filled.svg"
+    },
     "warning": {
         "normal": "./svgs/warning.svg",
         "filled": "./svgs/warning-filled.svg"
