@@ -249,6 +249,22 @@
         "normal": "./svgs/check_circle.svg",
         "filled": "./svgs/check_circle-filled.svg"
     },
+    "up_sign_circle": {
+        "normal": "./svgs/up_sign_circle.svg",
+        "filled": "./svgs/up_sign_circle-filled.svg"
+    },
+    "down_sign_circle": {
+        "normal": "./svgs/down_sign_circle.svg",
+        "filled": "./svgs/down_sign_circle-filled.svg"
+    },
+    "left_sign_circle": {
+        "normal": "./svgs/left_sign_circle.svg",
+        "filled": "./svgs/left_sign_circle-filled.svg"
+    },
+    "right_sign_circle": {
+        "normal": "./svgs/right_sign_circle.svg",
+        "filled": "./svgs/right_sign_circle-filled.svg"
+    },
     "add_box": {
         "normal": "./svgs/add_box.svg",
         "filled": "./svgs/add_box-filled.svg"
