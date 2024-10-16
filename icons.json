@@ -603,6 +603,10 @@
         "normal": "./svgs/printer.svg",
         "filled": "./svgs/printer-filled.svg"
     },
+    "cup": {
+        "normal": "./svgs/cup.svg",
+        "filled": "./svgs/cup-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -646,5 +650,7 @@
     "pull_up": {"normal": "./svgs/pull_up.svg"},
     "pull_down": {"normal": "./svgs/pull_down.svg"},
     "pull_left": {"normal": "./svgs/pull_left.svg"},
-    "pull_right": {"normal": "./svgs/pull_right.svg"}
+    "pull_right": {"normal": "./svgs/pull_right.svg"},
+    "male_sign": {"normal": "./svgs/male_sign.svg", "alias": ["sex_sign"]},
+    "female_sign": {"normal": "./svgs/female_sign.svg", "alias": ["sex_sign"]}
 }
