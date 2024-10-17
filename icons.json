@@ -71,6 +71,10 @@
         "normal": "./svgs/users_off.svg",
         "filled": "./svgs/users_off-filled.svg"
     },
+    "profile": {
+        "normal": "./svgs/profile.svg",
+        "filled": "./svgs/profile-filled.svg"
+    },
     "settings": {
         "normal": "./svgs/settings.svg",
         "filled": "./svgs/settings-filled.svg"
@@ -103,6 +107,11 @@
     "chat2_line": {
         "normal": "./svgs/chat2_line.svg",
         "filled": "./svgs/chat2_line-filled.svg",
+        "alias": ["message"]
+    },
+    "chats2": {
+        "normal": "./svgs/chats2.svg",
+        "filled": "./svgs/chats2-filled.svg",
         "alias": ["message"]
     },
     "community": {
@@ -493,6 +502,14 @@
     "display": {
         "normal": "./svgs/display.svg",
         "filled": "./svgs/display-filled.svg"
+    },
+    "mouse": {
+        "normal": "./svgs/mouse.svg",
+        "filled": "./svgs/mouse-filled.svg"
+    },
+    "terminal": {
+        "normal": "./svgs/terminal.svg",
+        "filled": "./svgs/terminal-filled.svg"
     },
     "tag": {
         "normal": "./svgs/tag.svg",
