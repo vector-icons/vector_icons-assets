@@ -349,6 +349,11 @@
         "normal": "./svgs/check_list.svg",
         "filled": "./svgs/check_list-filled.svg"
     },
+    "newspaper": {
+        "normal": "./svgs/newspaper.svg",
+        "filled": "./svgs/newspaper-filled.svg",
+        "alias": ["file"]
+    },
     "folder": {
         "normal": "./svgs/folder.svg",
         "filled": "./svgs/folder-filled.svg"
