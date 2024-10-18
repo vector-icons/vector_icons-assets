@@ -16,7 +16,8 @@
     },
     "heart": {
         "normal": "./svgs/heart.svg",
-        "filled": "./svgs/heart-filled.svg"
+        "filled": "./svgs/heart-filled.svg",
+        "alias": ["favorite"]
     },
     "search": {
         "normal": "./svgs/search.svg",
@@ -174,6 +175,10 @@
         "normal": "./svgs/sidebar.svg",
         "filled": "./svgs/sidebar-filled.svg"
     },
+    "dashboard": {
+        "normal": "./svgs/dashboard.svg",
+        "filled": "./svgs/dashboard-filled.svg"
+    },
     "star": {
         "normal": "./svgs/star.svg",
         "filled": "./svgs/star-filled.svg"
@@ -194,13 +199,17 @@
         "normal": "./svgs/eye_off.svg",
         "filled": "./svgs/eye_off-filled.svg"
     },
-    "list": {
-        "normal": "./svgs/list.svg",
-        "filled": "./svgs/list-filled.svg"
+    "list_view": {
+        "normal": "./svgs/list_view.svg",
+        "filled": "./svgs/list_view-filled.svg"
     },
-    "grid": {
-        "normal": "./svgs/grid.svg",
-        "filled": "./svgs/grid-filled.svg"
+    "grid_view": {
+        "normal": "./svgs/grid_view.svg",
+        "filled": "./svgs/grid_view-filled.svg"
+    },
+    "dashboard_view": {
+        "normal": "./svgs/dashboard_view.svg",
+        "filled": "./svgs/dashboard_view-filled.svg"
     },
     "image": {
         "normal": "./svgs/image.svg",
@@ -691,5 +700,7 @@
     "pull_left": {"normal": "./svgs/pull_left.svg"},
     "pull_right": {"normal": "./svgs/pull_right.svg"},
     "male_sign": {"normal": "./svgs/male_sign.svg", "alias": ["sex_sign"]},
-    "female_sign": {"normal": "./svgs/female_sign.svg", "alias": ["sex_sign"]}
+    "female_sign": {"normal": "./svgs/female_sign.svg", "alias": ["sex_sign"]},
+    "history": {"normal": "./svgs/history.svg"},
+    "sleep_time": {"normal": "./svgs/sleep_time.svg"}
 }
