@@ -1,7 +1,7 @@
 {
-    "home1": {
-        "normal": "./svgs/home1.svg",
-        "filled": "./svgs/home1-filled.svg",
+    "home": {
+        "normal": "./svgs/home.svg",
+        "filled": "./svgs/home-filled.svg",
         "alias": ["house"]
     },
     "home2": {
@@ -153,6 +153,10 @@
     "storage": {
         "normal": "./svgs/storage.svg",
         "filled": "./svgs/storage-filled.svg"
+    },
+    "storage2": {
+        "normal": "./svgs/storage2.svg",
+        "filled": "./svgs/storage2-filled.svg"
     },
     "bookmark": {
         "normal": "./svgs/bookmark.svg",
