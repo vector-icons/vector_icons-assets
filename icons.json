@@ -637,6 +637,10 @@
         "normal": "./svgs/sprout.svg",
         "filled": "./svgs/sprout-filled.svg"
     },
+    "tip": {
+        "normal": "./svgs/tip.svg",
+        "filled": "./svgs/tip-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -671,6 +675,7 @@
     "refresh": {"normal": "./svgs/refresh.svg"},
     "repeat": {"normal": "./svgs/repeat.svg"},
     "web": {"normal": "./svgs/web.svg"},
+    "wifi": {"normal": "./svgs/wifi.svg", "alias": ["network"]},
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
     "code": {"normal": "./svgs/code.svg"},
