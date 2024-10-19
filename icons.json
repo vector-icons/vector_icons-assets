@@ -227,10 +227,6 @@
         "normal": "./svgs/image.svg",
         "filled": "./svgs/image-filled.svg"
     },
-    "no_image": {
-        "normal": "./svgs/no_image.svg",
-        "filled": "./svgs/no_image-filled.svg"
-    },
     "video": {
         "normal": "./svgs/video.svg",
         "filled": "./svgs/video-filled.svg"
@@ -669,6 +665,18 @@
     "hard_drive": {
         "normal": "./svgs/hard_drive.svg",
         "filled": "./svgs/hard_drive-filled.svg"
+    },
+    "cpu": {
+        "normal": "./svgs/cpu.svg",
+        "filled": "./svgs/cpu-filled.svg"
+    },
+    "truck_transport": {
+        "normal": "./svgs/truck_transport.svg",
+        "filled": "./svgs/truck_transport-filled.svg"
+    },
+    "radio_antenna": {
+        "normal": "./svgs/radio_antenna.svg",
+        "filled": "./svgs/radio_antenna-filled.svg"
     },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
