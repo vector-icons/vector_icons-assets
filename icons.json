@@ -392,6 +392,10 @@
         "filled": "./svgs/pencel-filled.svg",
         "alias": ["edit"]
     },
+    "pen_tool": {
+        "normal": "./svgs/pen_tool.svg",
+        "filled": "./svgs/pen_tool-filled.svg"
+    },
     "layout": {
         "normal": "./svgs/layout.svg",
         "filled": "./svgs/layout-filled.svg"
