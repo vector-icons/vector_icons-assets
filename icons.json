@@ -24,6 +24,14 @@
         "filled": "./svgs/search-filled.svg",
         "alias": ["magnifier"]
     },
+    "zoom_in": {
+        "normal": "./svgs/zoom_in.svg",
+        "filled": "./svgs/zoom_in-filled.svg"
+    },
+    "zoom_out": {
+        "normal": "./svgs/zoom_out.svg",
+        "filled": "./svgs/zoom_out-filled.svg"
+    },
     "navigation": {
         "normal": "./svgs/navigation.svg",
         "filled": "./svgs/navigation-filled.svg",
@@ -170,6 +178,10 @@
     "notification": {
         "normal": "./svgs/notification.svg",
         "filled": "./svgs/notification-filled.svg"
+    },
+    "alarm": {
+        "normal": "./svgs/alarm.svg",
+        "filled": "./svgs/alarm-filled.svg"
     },
     "sidebar": {
         "normal": "./svgs/sidebar.svg",
