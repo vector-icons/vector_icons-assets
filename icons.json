@@ -678,6 +678,18 @@
         "normal": "./svgs/radio_antenna.svg",
         "filled": "./svgs/radio_antenna-filled.svg"
     },
+    "bird": {
+        "normal": "./svgs/bird.svg",
+        "filled": "./svgs/bird-filled.svg"
+    },
+    "github": {
+        "normal": "./svgs/github.svg",
+        "filled": "./svgs/github-filled.svg"
+    },
+    "gitlab": {
+        "normal": "./svgs/gitlab.svg",
+        "filled": "./svgs/gitlab-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
