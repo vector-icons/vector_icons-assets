@@ -709,6 +709,7 @@
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
     "code": {"normal": "./svgs/code.svg"},
     "box": {"normal": "./svgs/box.svg", "alias": "container"},
+    "box_delivery": {"normal": "./svgs/box_delivery.svg"},
     "power": {"normal": "./svgs/power.svg"},
     "ban": {"normal": "./svgs/ban.svg"},
     "pull_up": {"normal": "./svgs/pull_up.svg"},
