@@ -408,6 +408,10 @@
         "normal": "./svgs/timer.svg",
         "filled": "./svgs/timer-filled.svg"
     },
+    "watch": {
+        "normal": "./svgs/watch.svg",
+        "filled": "./svgs/watch-filled.svg"
+    },
     "circle_graph": {
         "normal": "./svgs/circle_graph.svg",
         "filled": "./svgs/circle_graph-filled.svg"
@@ -694,6 +698,10 @@
         "normal": "./svgs/gitlab.svg",
         "filled": "./svgs/gitlab-filled.svg"
     },
+    "medal": {
+        "normal": "./svgs/medal.svg",
+        "filled": "./svgs/medal-filled.svg"
+    },
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -730,6 +738,7 @@
     "repeat": {"normal": "./svgs/repeat.svg"},
     "web": {"normal": "./svgs/web.svg"},
     "wifi": {"normal": "./svgs/wifi.svg", "alias": ["network"]},
+    "wifi_off": {"normal": "./svgs/wifi_off.svg", "alias": ["network"]},
     "bluetooth": {"normal": "./svgs/bluetooth.svg", "alias": ["network"]},
     "fullscreen": {"normal": "./svgs/fullscreen.svg"},
     "fullscreen_off": {"normal": "./svgs/fullscreen_off.svg"},
@@ -746,5 +755,6 @@
     "female_sign": {"normal": "./svgs/female_sign.svg", "alias": ["sex_sign"]},
     "history": {"normal": "./svgs/history.svg"},
     "sleep_time": {"normal": "./svgs/sleep_time.svg"},
-    "reverse": {"normal": "./svgs/reverse.svg"}
+    "reverse": {"normal": "./svgs/reverse.svg"},
+    "cast": {"normal": "./svgs/cast.svg"}
 }
