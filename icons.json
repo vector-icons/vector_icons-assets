@@ -143,17 +143,9 @@
         "normal": "./svgs/mike_off.svg",
         "filled": "./svgs/mike_off-filled.svg"
     },
-    "extension": {
-        "normal": "./svgs/extension.svg",
-        "filled": "./svgs/extension-filled.svg"
-    },
     "library": {
         "normal": "./svgs/library.svg",
         "filled": "./svgs/library-filled.svg"
-    },
-    "database": {
-        "normal": "./svgs/database.svg",
-        "filled": "./svgs/database-filled.svg"
     },
     "element": {
         "normal": "./svgs/element.svg",
@@ -537,6 +529,10 @@
         "normal": "./svgs/display.svg",
         "filled": "./svgs/display-filled.svg"
     },
+    "speaker": {
+        "normal": "./svgs/speaker.svg",
+        "filled": "./svgs/speaker-filled.svg"
+    },
     "mouse": {
         "normal": "./svgs/mouse.svg",
         "filled": "./svgs/mouse-filled.svg"
@@ -702,6 +698,16 @@
         "normal": "./svgs/medal.svg",
         "filled": "./svgs/medal-filled.svg"
     },
+    "water": {
+        "normal": "./svgs/water.svg",
+        "filled": "./svgs/water-filled.svg"
+    },
+    "ball": {
+        "normal": "./svgs/ball.svg",
+        "filled": "./svgs/ball-filled.svg"
+    },
+    "database": {"normal": "./svgs/database.svg"},
+    "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
     "bar_graph_up": {"normal": "./svgs/bar_graph_up.svg"},
     "bar_graph_down": {"normal": "./svgs/bar_graph_down.svg"},
@@ -756,5 +762,6 @@
     "history": {"normal": "./svgs/history.svg"},
     "sleep_time": {"normal": "./svgs/sleep_time.svg"},
     "reverse": {"normal": "./svgs/reverse.svg"},
-    "cast": {"normal": "./svgs/cast.svg"}
+    "cast": {"normal": "./svgs/cast.svg"},
+    "target": {"normal": "./svgs/target.svg"}
 }
