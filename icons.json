@@ -618,10 +618,6 @@
         "normal": "./svgs/help.svg",
         "filled": "./svgs/help-filled.svg"
     },
-    "store": {
-        "normal": "./svgs/store.svg",
-        "filled": "./svgs/store-filled.svg"
-    },
     "application": {
         "normal": "./svgs/application.svg",
         "filled": "./svgs/application-filled.svg"
@@ -706,6 +702,10 @@
         "normal": "./svgs/ball.svg",
         "filled": "./svgs/ball-filled.svg"
     },
+    "save": {
+        "normal": "./svgs/save.svg",
+        "filled": "./svgs/save-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
@@ -763,5 +763,6 @@
     "sleep_time": {"normal": "./svgs/sleep_time.svg"},
     "reverse": {"normal": "./svgs/reverse.svg"},
     "cast": {"normal": "./svgs/cast.svg"},
-    "target": {"normal": "./svgs/target.svg"}
+    "target": {"normal": "./svgs/target.svg"},
+    "activity_health": {"normal": "./svgs/activity_health.svg"}
 }
