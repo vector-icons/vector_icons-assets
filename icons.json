@@ -711,6 +711,8 @@
     "menu": {"normal": "./svgs/menu.svg"},
     "menu_list": {"normal": "./svgs/menu_list.svg"},
     "menu_grid": {"normal": "./svgs/menu_grid.svg"},
+    "filter_list": {"normal": "./svgs/filter_list.svg"},
+    "sorted_list": {"normal": "./svgs/sorted_list.svg"},
     "control": {"normal": "./svgs/control.svg"},
     "arrow_top": {"normal": "./svgs/arrow_top.svg"},
     "arrow_bottom": {"normal": "./svgs/arrow_bottom.svg"},
