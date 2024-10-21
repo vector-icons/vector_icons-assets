@@ -155,9 +155,10 @@
         "normal": "./svgs/storage.svg",
         "filled": "./svgs/storage-filled.svg"
     },
-    "storage2": {
-        "normal": "./svgs/storage2.svg",
-        "filled": "./svgs/storage2-filled.svg"
+    "inbox": {
+        "normal": "./svgs/inbox.svg",
+        "filled": "./svgs/inbox-filled.svg",
+        "alias": ["storage"]
     },
     "bookmark": {
         "normal": "./svgs/bookmark.svg",
@@ -230,14 +231,6 @@
     "play": {
         "normal": "./svgs/play.svg",
         "filled": "./svgs/play-filled.svg"
-    },
-    "play_next": {
-        "normal": "./svgs/play_next.svg",
-        "filled": "./svgs/play_next-filled.svg"
-    },
-    "play_previous": {
-        "normal": "./svgs/play_previous.svg",
-        "filled": "./svgs/play_previous-filled.svg"
     },
     "pause": {
         "normal": "./svgs/pause.svg",
