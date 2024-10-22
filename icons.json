@@ -466,9 +466,9 @@
         "normal": "./svgs/light.svg",
         "filled": "./svgs/light-filled.svg"
     },
-    "lightning": {
-        "normal": "./svgs/lightning.svg",
-        "filled": "./svgs/lightning-filled.svg"
+    "bolt": {
+        "normal": "./svgs/bolt.svg",
+        "filled": "./svgs/bolt-filled.svg"
     },
     "cloud": {
         "normal": "./svgs/cloud.svg",
@@ -702,6 +702,18 @@
     "film": {
         "normal": "./svgs/film.svg",
         "filled": "./svgs/film-filled.svg"
+    },
+    "backspace": {
+        "normal": "./svgs/backspace.svg",
+        "filled": "./svgs/backspace-filled.svg"
+    },
+    "briefcase": {
+        "normal": "./svgs/briefcase.svg",
+        "filled": "./svgs/briefcase-filled.svg"
+    },
+    "clipboard": {
+        "normal": "./svgs/clipboard.svg",
+        "filled": "./svgs/clipboard-filled.svg"
     },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
