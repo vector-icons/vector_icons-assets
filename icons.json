@@ -719,6 +719,18 @@
         "normal": "./svgs/cleaning.svg",
         "filled": "./svgs/cleaning-filled.svg"
     },
+    "capsule": {
+        "normal": "./svgs/capsule.svg",
+        "filled": "./svgs/capsule-filled.svg"
+    },
+    "puzzle": {
+        "normal": "./svgs/puzzle.svg",
+        "filled": "./svgs/puzzle-filled.svg"
+    },
+    "puzzle2": {
+        "normal": "./svgs/puzzle2.svg",
+        "filled": "./svgs/puzzle2-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
