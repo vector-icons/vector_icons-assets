@@ -381,6 +381,10 @@
         "normal": "./svgs/pen_tool.svg",
         "filled": "./svgs/pen_tool-filled.svg"
     },
+    "edit": {
+        "normal": "./svgs/edit.svg",
+        "filled": "./svgs/edit-filled.svg"
+    },
     "layout": {
         "normal": "./svgs/layout.svg",
         "filled": "./svgs/layout-filled.svg"
@@ -731,6 +735,10 @@
         "normal": "./svgs/puzzle2.svg",
         "filled": "./svgs/puzzle2-filled.svg"
     },
+    "laptop": {
+        "normal": "./svgs/laptop.svg",
+        "filled": "./svgs/laptop-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
@@ -762,6 +770,7 @@
     "cloud_export": {"normal": "./svgs/cloud_export.svg", "alias": ["cloud_upload"]},
     "more_vertical": {"normal": "./svgs/more_vertical.svg"},
     "more_horizontal": {"normal": "./svgs/more_horizontal.svg"},
+    "dragable": {"normal": "./svgs/dragable.svg"},
     "popup": {"normal": "./svgs/popup.svg"},
     "link": {"normal": "./svgs/link.svg"},
     "clip": {"normal": "./svgs/clip.svg"},
