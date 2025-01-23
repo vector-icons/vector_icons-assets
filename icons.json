@@ -687,6 +687,18 @@
         "normal": "./svgs/gitlab.svg",
         "filled": "./svgs/gitlab-filled.svg"
     },
+    "gemini": {
+        "normal": "./svgs/gemini.svg",
+        "filled": "./svgs/gemini-filled.svg"
+    },
+    "discord": {
+        "normal": "./svgs/discord.svg",
+        "filled": "./svgs/discord-filled.svg"
+    },
+    "apple": {
+        "normal": "./svgs/apple.svg",
+        "filled": "./svgs/apple-filled.svg"
+    },
     "medal": {
         "normal": "./svgs/medal.svg",
         "filled": "./svgs/medal-filled.svg"
