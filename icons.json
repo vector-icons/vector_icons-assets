@@ -751,6 +751,14 @@
         "normal": "./svgs/laptop.svg",
         "filled": "./svgs/laptop-filled.svg"
     },
+    "tv": {
+        "normal": "./svgs/tv.svg",
+        "filled": "./svgs/tv-filled.svg"
+    },
+    "device": {
+        "normal": "./svgs/device.svg",
+        "filled": "./svgs/device-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
