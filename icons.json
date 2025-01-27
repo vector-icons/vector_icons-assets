@@ -767,6 +767,14 @@
         "normal": "./svgs/copyleft.svg",
         "filled": "./svgs/copyleft-filled.svg"
     },
+    "map": {
+        "normal": "./svgs/map.svg",
+        "filled": "./svgs/map-filled.svg"
+    },
+    "earth": {
+        "normal": "./svgs/earth.svg",
+        "filled": "./svgs/earth-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
