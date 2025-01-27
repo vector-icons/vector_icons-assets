@@ -147,9 +147,9 @@
         "normal": "./svgs/library.svg",
         "filled": "./svgs/library-filled.svg"
     },
-    "element": {
-        "normal": "./svgs/element.svg",
-        "filled": "./svgs/element-filled.svg"
+    "stack": {
+        "normal": "./svgs/stack.svg",
+        "filled": "./svgs/stack-filled.svg"
     },
     "storage": {
         "normal": "./svgs/storage.svg",
@@ -758,6 +758,14 @@
     "device": {
         "normal": "./svgs/device.svg",
         "filled": "./svgs/device-filled.svg"
+    },
+    "copyright": {
+        "normal": "./svgs/copyright.svg",
+        "filled": "./svgs/copyright-filled.svg"
+    },
+    "copyleft": {
+        "normal": "./svgs/copyleft.svg",
+        "filled": "./svgs/copyleft-filled.svg"
     },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
