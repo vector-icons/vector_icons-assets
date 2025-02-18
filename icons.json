@@ -434,6 +434,10 @@
         "normal": "./svgs/test_bottle_empty.svg",
         "filled": "./svgs/test_bottle_empty-filled.svg"
     },
+    "filter": {
+        "normal": "./svgs/filter.svg",
+        "filled": "./svgs/filter-filled.svg"
+    },
     "shield": {
         "normal": "./svgs/shield.svg",
         "filled": "./svgs/shield-filled.svg"
@@ -774,6 +778,10 @@
     "earth": {
         "normal": "./svgs/earth.svg",
         "filled": "./svgs/earth-filled.svg"
+    },
+    "car": {
+        "normal": "./svgs/car.svg",
+        "filled": "./svgs/car-filled.svg"
     },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
