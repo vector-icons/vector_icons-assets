@@ -791,6 +791,10 @@
         "normal": "./svgs/robot.svg",
         "filled": "./svgs/robot-filled.svg"
     },
+    "rotate": {
+        "normal": "./svgs/rotate.svg",
+        "filled": "./svgs/rotate-filled.svg"
+    },
     "database": {"normal": "./svgs/database.svg"},
     "extension": {"normal": "./svgs/extension.svg"},
     "bar_graph": {"normal": "./svgs/bar_graph.svg"},
@@ -852,5 +856,6 @@
     "reverse": {"normal": "./svgs/reverse.svg"},
     "cast": {"normal": "./svgs/cast.svg"},
     "target": {"normal": "./svgs/target.svg"},
-    "activity_health": {"normal": "./svgs/activity_health.svg"}
+    "activity_health": {"normal": "./svgs/activity_health.svg"},
+    "language": {"normal": "./svgs/language.svg"}
 }
