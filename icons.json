@@ -857,5 +857,8 @@
     "cast": {"normal": "./svgs/cast.svg"},
     "target": {"normal": "./svgs/target.svg"},
     "activity_health": {"normal": "./svgs/activity_health.svg"},
-    "language": {"normal": "./svgs/language.svg"}
+    "language": {"normal": "./svgs/language.svg"},
+    "window_minimize": {"normal": "./svgs/window_minimize.svg"},
+    "window_maximize": {"normal": "./svgs/window_maximize.svg"},
+    "windows": {"normal": "./svgs/windows.svg"}
 }
