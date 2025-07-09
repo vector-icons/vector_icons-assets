@@ -52,6 +52,11 @@
         "filled": "./svgs/close_navigation-filled.svg",
         "alias": ["close_location"]
     },
+    "check_navigation": {
+        "normal": "./svgs/check_navigation.svg",
+        "filled": "./svgs/check_navigation-filled.svg",
+        "alias": ["check_location"]
+    },
     "user": {
         "normal": "./svgs/user.svg",
         "filled": "./svgs/user-filled.svg"
